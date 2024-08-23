@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Shopping-cart-using-Reducer-hook-in-ReactJS/static/css/main.a57f1d5f.css",
+    "main.js": "/Shopping-cart-using-Reducer-hook-in-ReactJS/static/js/main.1560e9e7.js",
+    "static/js/453.59eb9ae1.chunk.js": "/Shopping-cart-using-Reducer-hook-in-ReactJS/static/js/453.59eb9ae1.chunk.js",
+    "static/media/black-friday-elements-assortment.jpg": "/Shopping-cart-using-Reducer-hook-in-ReactJS/static/media/black-friday-elements-assortment.a54e8082e0aa8dea0c92.jpg",
+    "index.html": "/Shopping-cart-using-Reducer-hook-in-ReactJS/index.html",
+    "main.a57f1d5f.css.map": "/Shopping-cart-using-Reducer-hook-in-ReactJS/static/css/main.a57f1d5f.css.map",
+    "main.1560e9e7.js.map": "/Shopping-cart-using-Reducer-hook-in-ReactJS/static/js/main.1560e9e7.js.map",
+    "453.59eb9ae1.chunk.js.map": "/Shopping-cart-using-Reducer-hook-in-ReactJS/static/js/453.59eb9ae1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a57f1d5f.css",
+    "static/js/main.1560e9e7.js"
+  ]
+}
